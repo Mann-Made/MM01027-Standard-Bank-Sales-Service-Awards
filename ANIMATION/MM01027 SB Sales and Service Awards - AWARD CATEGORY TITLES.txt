@@ -1,5 +1,5 @@
 TITLE1,TITLE2,TITLE3,TITLE4
-COVID-19 SPECIFIC ACTIVITIES,Banked but not,Acquired Merchant Awards,,
+COVID-19 SPECIFIC ACTIVITIES,Banked but,not Acquired,Merchant Awards
 COVID-19 SPECIFIC ACTIVITIES,Simply Blu Awards,,,
 TOP PERFORMING CONSULTANTS,Best Performing,Consultants on,New Business Awards,
 TOP PERFORMING CONSULTANTS,Best Performing,Newbie Award,,

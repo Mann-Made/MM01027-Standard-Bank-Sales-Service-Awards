@@ -1,5 +1,4 @@
 .DS_Store
-*.blend1
-*.blend2
-*.blend3
+*auto-save
 *.mov
+AE*.txt
